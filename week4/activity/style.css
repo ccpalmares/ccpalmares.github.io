@@ -15,7 +15,7 @@
 }
 .C{
     width: 240px;
-    height: 239px;
+    height: 240px;
     background-color: red;
     border-bottom: 10px solid black;
 }
@@ -40,7 +40,7 @@
 .G{
     width: 30px;
     height: 40px;
-    background-color: yellow;
+    background-color:yellow;
     border-top: 10px solid black;
 }
 .wrap{
